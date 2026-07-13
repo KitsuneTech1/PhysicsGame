@@ -72,4 +72,4 @@ Clearing both levels ends the game.
 
 ## License
 
-Licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0). Copyright (c) 2026 Kitsune Technologies LLC. Free for noncommercial use (personal, research, education, nonprofit, government); commercial use is not permitted under this license. See `LICENSE.md` for the full text.
+MIT. See [LICENSE.md](LICENSE.md).
